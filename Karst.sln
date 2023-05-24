@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karst.Service", "Karst.Service\Karst.Service.csproj", "{64042693-93BE-41E3-8255-D864E10883FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karst.Tests", "Karst.Tests\Karst.Tests.csproj", "{5813A407-E005-4433-BBA2-E0981016A4D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64042693-93BE-41E3-8255-D864E10883FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64042693-93BE-41E3-8255-D864E10883FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64042693-93BE-41E3-8255-D864E10883FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64042693-93BE-41E3-8255-D864E10883FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5813A407-E005-4433-BBA2-E0981016A4D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5813A407-E005-4433-BBA2-E0981016A4D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5813A407-E005-4433-BBA2-E0981016A4D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5813A407-E005-4433-BBA2-E0981016A4D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
